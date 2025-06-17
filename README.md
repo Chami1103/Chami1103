@@ -1,33 +1,86 @@
-<h1 align="center">Hi 👋, I'm Chamika Vimukthi</h1>
-<h3 align="center">Frontend Alchemy: Turning Code into Gold</h3>
+<!-- README.md – 2025 edition -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chami1103&label=Profile%20views&color=0e75b6&style=flat" alt="chami1103" /> </p>
+<div align="center">
+  <!-- Typing SVG header -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Chamika+Vimukthi;Frontend+Alchemy%3A+Turning+Code+into+Gold"
+    alt="Typing SVG"
+  />
+</div>
 
-- 👨🏼‍🎓 I'm an Undergraduate at **SLIIT**
-
-- 🌱 I’m currently learning **DEV-OPS**
-
-- 👯 I’m looking to collaborate on **exciting frontend projects!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
-
-- 💬 Ask me about **frontend development/Block Chain/Crypto/**
-
-- 📫 How to reach me **Chamikavimukthi1103@gmail.com 📧**
-
-- ⚡ Fun fact **Call me Squirrel**
-
-![Chami github stats](https://github-readme-stats.vercel.app/api?username=Chami1103&show_icons=true&theme=tokyonight)  ![Chami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chami1103&theme=tokyonight) 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chami1103&theme=tokyonight) ![Github Stars](https://github-readme-stats.vercel.app/api?username=Chami1103&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chamika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chamika vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamika vimukthi" height="30" width="40" /></a>
-<a href="https://instagram.com/chamikav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamikav" height="30" width="40" /></a>
+<p align="center">
+  <!-- Visitor counter -->
+  <img
+    src="https://komarev.com/ghpvc/?username=Chami1103&style=flat-square&color=brightgreen"
+    alt="profile views"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🌟 About Me
+- 🎓 **Software Engineering undergraduate @ SLIIT (2021-2025)**
+- 💼 Front-End Engineer | JavaScript Sorcerer 🧙‍♂️  
+- 🌱 Currently diving deep into **DevOps • Cloud Native • Astro**
+- 🤝 Open to collaborate on **cutting-edge web & blockchain projects**
+- 💬 Ask me about **React • Next.js • Web Perf • Crypto**
+- 📫 Reach me at **chamikavimukthi1103@gmail.com**
+- 🐿️ *Fun fact*: friends call me **_Squirrel_** because I never stop hustling!
+
+### 🔥 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chami1103&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Chami1103&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chami1103&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chami1103&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+</p>
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/Chamika" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chamika-vimukthi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/chamikav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://dev.to/chami1103" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-000000?style=flat-square&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"   alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg"     alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"        alt="React" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white"              alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8"           alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/node.js/43853D"               alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED"                alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326DE6"            alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/aws/FF9900"                   alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248"               alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/graphql/E10098"               alt="GraphQL" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032"                   alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624"                 alt="Linux" width="40" height="40"/>
+</p>
+
+### 📈 Weekly Coding Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
+
+<div align="center">
+  <!-- Snake eating my contributions graph -->
+  <img src="https://raw.githubusercontent.com/Chami1103/Chami1103/output/snake.svg" alt="snake animation" />
+</div>
